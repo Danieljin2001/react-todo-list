@@ -9,3 +9,7 @@ Things learned:
 - useEffect
 - Passing props
 - Event Handling
+
+To run:
+cd to first-project and on the console enter in:
+    npm run dev
