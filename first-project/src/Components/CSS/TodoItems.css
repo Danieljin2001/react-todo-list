@@ -11,9 +11,13 @@
 }
 
 .todoitems-text{
+    display: flex;
     padding-left: 16px;
     color: #404040;
     font-size: 22px;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .todoitems-cross-icon{
